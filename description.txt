@@ -1,0 +1,6 @@
+FizzBuzz
+
+n -> FB -> "n"
+n % 3 -> FB -> "Fizz"
+n % 5 -> FB -> "Buzz"
+n % 3 && n % 5 -> FB -> "FizzBuzz"
